@@ -20,7 +20,7 @@ theme: juanbrujo/cleaver-beerjs
 * Esto no es un mantra, ni evangelización ni nada por el estilo.
 * No sirve como guia de estilo ni nada, es solo una explicación de como funciona **A GRANDES RASGOS**.
 * Si necesita más info, busque la BeerJS más cercana y converse con alguna persona que sepa ReactJS y Redux.
-* Algunas tildes fueron omitidas, porque no tengo _~~punta de montaña~_ idea donde van.
+* Algunas tildes fueron omitidas, porque no tengo _~~punta de montaña~~_ idea donde van.
 * Existen algunos _typos_ puestos voluntariamente y otros involuntariamente.
 * _Pueden esperar en su puesto mientras el codigo funciona correctamente_
 
@@ -295,7 +295,7 @@ Cada vez que se monta un componente, el metodo connect de redux, deja el callbac
 
 --
 
-![map redux](https://www.sohamkamani.com/final-connect-flow-4abcf082e1504cd8543a0b45e4dd9c52.svg)
+![map redux](https://www.sohamkamani.com/4abcf082e1504cd8543a0b45e4dd9c52/final-connect-flow.svg)
 
 --
 
