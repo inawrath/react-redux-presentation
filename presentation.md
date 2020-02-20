@@ -19,8 +19,7 @@ theme: juanbrujo/cleaver-beerjs
 
 * Esto no es un mantra, ni evangelización ni nada por el estilo.
 * No sirve como guia de estilo ni nada, es solo una explicación de como funciona **A GRANDES RASGOS**.
-* Si necesita más info, busque la BeerJS más cercana y converse con alguna persona que sepa ReactJS y Redux.
-* Algunas tildes fueron omitidas, porque no tengo _~~punta de montaña~_ idea donde van.
+* Algunas tildes fueron omitidas, porque no tengo _~~punta de montaña~~_ idea donde van.
 * Existen algunos _typos_ puestos voluntariamente y otros involuntariamente.
 * _Pueden esperar en su puesto mientras el codigo funciona correctamente_
 
@@ -28,7 +27,7 @@ theme: juanbrujo/cleaver-beerjs
 
 ### ¿Qué es ReactJS?
 
-Es una libreria Javascript enfocada en la visualización, la V del MVC. Nos ofrece grandes beneficios de perfomance, modularidad y promueve un flujo ¿muy claro? de datos y eventos, lo que permite una mejor planeación y desarrollo de apps complejas. ~~¿Alguien dijo Point?~~
+Es una libreria Javascript enfocada en la visualización, la V del MVC. Nos ofrece grandes beneficios de perfomance, modularidad y promueve un flujo ¿muy claro? de datos y eventos, lo que permite una mejor planeación y desarrollo de apps complejas. ~~¿Alguien dijo ISV, Point, PDV?~~
 
 --
 
@@ -79,11 +78,6 @@ ReactDOM.render(
   document.getElementById('app'),
 )
 ```
-
-[source https://tupo.to/zBUY](https://tupo.to/zBUY)
-
-[execute https://tupo.to/80Qn](https://tupo.to/80Qn)
-
 
 --
 
@@ -295,21 +289,13 @@ Cada vez que se monta un componente, el metodo connect de redux, deja el callbac
 
 --
 
-![map redux](https://www.sohamkamani.com/final-connect-flow-4abcf082e1504cd8543a0b45e4dd9c52.svg)
+![map redux](https://www.sohamkamani.com/4abcf082e1504cd8543a0b45e4dd9c52/final-connect-flow.svg)
 
 --
 
 ### Luego compilamos, subimos a producción y todos fe... oh wait!
 
 ![Cat](https://img.devrant.com/devrant/rant/r_283073_ic8QB.gif)
-
---
-
-## Como un pequeño detalle
-
---
-
-# Sigue sin gustarme el frontend.
 
 --
 
